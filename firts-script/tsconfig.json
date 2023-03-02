@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6",                                  
+    "rootDir": "./scr",                                  
+    "sourceMap": true,                              
+    "outDir": "./build",                                   
+    "removeComments": true,         
+    "esModuleInterop": true,                            
+    "forceConsistentCasingInFileNames": true,           
+    "strict": true,                                      
+    "noImplicitAny": true,
+"skipLibCheck": true                                
+  }
+}
