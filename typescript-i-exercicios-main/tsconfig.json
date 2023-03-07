@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "CommonJS",
+    "sourceMap": true,
+    "outDir": "./build",
+    "removeComments": true,
+    "noImplicitAny": true,
+    "noEmitOnError": true,
+    "rootDir": "./src"
+  }
+}
